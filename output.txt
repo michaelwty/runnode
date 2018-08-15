@@ -1,0 +1,6 @@
+PS C:UsersTERRYWANG-MSIDocumentsGitHubunnodejs> node stream 
+程序执行完毕 
+ etst 
+ afaf 
+ vvv 
+ PS C:UsersTERRYWANG-MSIDocumentsGitHubunnodejs> node stream程序执行完毕
